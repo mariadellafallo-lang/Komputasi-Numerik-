@@ -1,2 +1,2 @@
 # Komputasi-Numerik-
-Tugas Mata Kuliah Komputasi Numerik: Penyelesaian SPLTV metode Eliminasi Gauss dan Persamaan Nonlinear metode Bisection menggunakan Python.
+Buat Algoritma Penyelesaian Sistem Persamaan Linear 3 variabel
