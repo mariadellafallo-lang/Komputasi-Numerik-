@@ -1,0 +1,10 @@
+ALGORITMA PENYELESAIAN SPLTV
+METODE ELIMINASI GAUSS
+
+1. Mulai.
+2. Masukkan koefisien variabel x, y, z dan konstanta dari tiga persamaan.
+3. Bentuk matriks augmented.
+4. Lakukan eliminasi Gauss untuk mengubah matriks menjadi bentuk segitiga atas.
+5. Lakukan substitusi mundur untuk memperoleh nilai x, y, dan z.
+6. Tampilkan hasil perhitungan.
+7. Selesai.
