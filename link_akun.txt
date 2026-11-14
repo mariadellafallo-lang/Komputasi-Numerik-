@@ -1,0 +1,16 @@
+LINK AKUN TUGAS KOMPUTASI NUMERIK
+
+1. Link Profil GitHub:
+https://github.com/mariadellafallo-lang
+
+2. Link Repository GitHub:
+https://github.com/mariadellafallo-lang/Komputasi-Numerik
+
+3. Link Google Colab SPLTV:
+https://colab.research.google.com/drive/1lfg_ZmZdBeqQIUs97-2cjIejfPTe32nU?usp=sharing
+
+4. Link Google Colab Bisection:
+https://colab.research.google.com/drive/1BXZHooREzbFGsgkSt4ttK3o6H9OC7AI8?usp=sharing
+
+5. Link Profil LinkedIn:
+https://www.linkedin.com/in/maria-della-fallo-6136b6442/
