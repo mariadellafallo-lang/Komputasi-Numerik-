@@ -1,0 +1,13 @@
+ALGORITMA PENYELESAIAN PERSAMAAN NONLINEAR
+METODE BISECTION
+
+1. Mulai.
+2. Tentukan fungsi f(x), batas bawah a, dan batas atas b.
+3. Tentukan nilai toleransi.
+4. Periksa apakah f(a) × f(b) kurang dari 0.
+5. Hitung titik tengah c = (a + b) / 2.
+6. Periksa nilai f(c).
+7. Perbarui batas interval berdasarkan tanda f(a) × f(c).
+8. Ulangi sampai memenuhi nilai toleransi.
+9. Tampilkan nilai akar persamaan.
+10. Selesai.
